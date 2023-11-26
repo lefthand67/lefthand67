@@ -1,4 +1,4 @@
-ML research-engineer at the Internationl Dept of the Ural Federal University, Russia.
+Research-engineer at the Internationl Dept of the Ural Federal University, Russia.
 <!---
 lefthand67/lefthand67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
