@@ -1,4 +1,4 @@
-A self-taught musician, mathematician, Python/C/SQL developer, Linux/DevOps engineer, ML/AI engineer, educator, and journalist/technical writer with over 10 years of experience in different fields (in IT since 2022). And a father of 3 children.
+A self-taught musician, mathematician, Python developer, Linux engineer, AI engineer, educator, and journalist/technical writer with over 10 years of experience in different fields (in IT since 2022). And a father of 3 children.
 
 Greetings from Yekaterinburg, Russia!
 <!---
