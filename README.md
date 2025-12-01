@@ -1,4 +1,4 @@
-A self-taught musician, mathematician, Python developer, Linux engineer, AI engineer, educator, and journalist/technical writer with over 10 years of experience in different fields (in IT since 2022). MA in History. And a father of 3 children.
+Linux Engineer in AI engineering transition (SLLMs, MLOps) | MA in History | Technical writer
 
 Greetings from Yekaterinburg, Russia!
 <!---
